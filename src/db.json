@@ -1,0 +1,391 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit Patel",
+      "username": "amit91",
+      "email": "amit.patel@example.com",
+      "address": {
+        "street": "123 Bollywood Lane",
+        "suite": "Apt. 456",
+        "city": "Mumbai",
+        "zipcode": "400001",
+        "geo": {
+          "lat": "19.0760",
+          "lng": "72.8777"
+        }
+      },
+      "phone": "91-1234567890",
+      "website": "www.amitpatel.com",
+      "company": {
+        "name": "Bollywood Productions",
+        "catchPhrase": "Lights, Camera, Action!",
+        "bs": "Entertainment Industry"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "username": "priya82",
+      "email": "priya.sharma@example.com",
+      "address": {
+        "street": "456 Rajput Nagar",
+        "suite": "Flat 301",
+        "city": "Delhi",
+        "zipcode": "110001",
+        "geo": {
+          "lat": "28.6139",
+          "lng": "77.2090"
+        }
+      },
+      "phone": "91-9876543210",
+      "website": "www.priyasharma.com",
+      "company": {
+        "name": "Delhi Spices Ltd.",
+        "catchPhrase": "Adding Spice to Life",
+        "bs": "Spice Manufacturing"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Singh",
+      "username": "rajesh75",
+      "email": "rajesh.singh@example.com",
+      "address": {
+        "street": "789 Gomti Nagar",
+        "suite": "Apt 601",
+        "city": "Lucknow",
+        "zipcode": "226001",
+        "geo": {
+          "lat": "26.8467",
+          "lng": "80.9462"
+        }
+      },
+      "phone": "91-7890123456",
+      "website": "www.rajeshsingh.com",
+      "company": {
+        "name": "Lucknow Sweets",
+        "catchPhrase": "Sweets from the Heart",
+        "bs": "Confectionery"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sneha Verma",
+      "username": "sneha88",
+      "email": "sneha.verma@example.com",
+      "address": {
+        "street": "567 Pink City Road",
+        "suite": "Suite 102",
+        "city": "Jaipur",
+        "zipcode": "302001",
+        "geo": {
+          "lat": "26.9124",
+          "lng": "75.7873"
+        }
+      },
+      "phone": "91-9876541234",
+      "website": "www.snehaverma.com",
+      "company": {
+        "name": "Rajasthan Handicrafts",
+        "catchPhrase": "Crafting Traditions",
+        "bs": "Art and Crafts"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Vikram Malhotra",
+      "username": "vikram79",
+      "email": "vikram.malhotra@example.com",
+      "address": {
+        "street": "234 Marina Beach Road",
+        "suite": "Flat 405",
+        "city": "Chennai",
+        "zipcode": "600001",
+        "geo": {
+          "lat": "13.0583",
+          "lng": "80.2640"
+        }
+      },
+      "phone": "91-7890654321",
+      "website": "www.vikrammalhotra.com",
+      "company": {
+        "name": "Chennai Tech Solutions",
+        "catchPhrase": "Innovation in Every Line of Code",
+        "bs": "Software Development"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Pooja Kapoor",
+      "username": "pooja86",
+      "email": "pooja.kapoor@example.com",
+      "address": {
+        "street": "345 Park Street",
+        "suite": "Apartment 201",
+        "city": "Kolkata",
+        "zipcode": "700001",
+        "geo": {
+          "lat": "22.5726",
+          "lng": "88.3639"
+        }
+      },
+      "phone": "91-9876123456",
+      "website": "www.poojakapoor.com",
+      "company": {
+        "name": "Kolkata Art Gallery",
+        "catchPhrase": "Where Art Comes Alive",
+        "bs": "Art and Culture"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rahul Kumar",
+      "username": "rahulkumar94",
+      "email": "rahul.kumar@example.com",
+      "address": {
+        "street": "456 Hitech City",
+        "suite": "Flat 502",
+        "city": "Hyderabad",
+        "zipcode": "500001",
+        "geo": {
+          "lat": "17.3850",
+          "lng": "78.4867"
+        }
+      },
+      "phone": "91-7890987654",
+      "website": "www.rahulkumar.com",
+      "company": {
+        "name": "Hyderabad Spice Bazaar",
+        "catchPhrase": "Spices of Hyderabad",
+        "bs": "Spice Trade"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Meera Reddy",
+      "username": "meerareddy83",
+      "email": "meera.reddy@example.com",
+      "address": {
+        "street": "567 MG Road",
+        "suite": "Apartment 301",
+        "city": "Bengaluru",
+        "zipcode": "560001",
+        "geo": {
+          "lat": "12.9716",
+          "lng": "77.5946"
+        }
+      },
+      "phone": "91-9876012345",
+      "website": "www.meerareddy.com",
+      "company": {
+        "name": "Bengaluru Tech Hub",
+        "catchPhrase": "Innovating the Future",
+        "bs": "Technology Solutions"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Gopal Sharma",
+      "username": "gopalsharma89",
+      "email": "gopal.sharma@example.com",
+      "address": {
+        "street": "678 Gandhi Road",
+        "suite": "Suite 103",
+        "city": "Ahmedabad",
+        "zipcode": "380001",
+        "geo": {
+          "lat": "23.0225",
+          "lng": "72.5714"
+        }
+      },
+      "phone": "91-7890456789",
+      "website": "www.gopalsharma.com",
+      "company": {
+        "name": "Ahmedabad Textiles",
+        "catchPhrase": "Weaving Dreams",
+        "bs": "Textile Manufacturing"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Neha Singh",
+      "username": "nehasingh87",
+      "email": "neha.singh@example.com",
+      "address": {
+        "street": "789 Deccan Gymkhana",
+        "suite": "Flat 204",
+        "city": "Pune",
+        "zipcode": "411001",
+        "geo": {
+          "lat": "18.5204",
+          "lng": "73.8567"
+        }
+      },
+      "phone": "91-9876123456",
+      "website": "www.nehasingh.com",
+      "company": {
+        "name": "Pune Cuisine Paradise",
+        "catchPhrase": "Taste of Pune",
+        "bs": "Culinary Delights"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rajat Kapoor",
+      "username": "rajatkapoor90",
+      "email": "rajat.kapoor@example.com",
+      "address": {
+        "street": "123 Amer Road",
+        "suite": "Suite 301",
+        "city": "Jaipur",
+        "zipcode": "302001",
+        "geo": {
+          "lat": "26.9124",
+          "lng": "75.7873"
+        }
+      },
+      "phone": "91-7890654321",
+      "website": "www.rajatkapoor.com",
+      "company": {
+        "name": "Jaipur Gems & Jewelry",
+        "catchPhrase": "Elegance in Every Piece",
+        "bs": "Jewelry Design"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ananya Gupta",
+      "username": "ananyagupta91",
+      "email": "ananya.gupta@example.com",
+      "address": {
+        "street": "456 Ganges Ghat",
+        "suite": "Flat 102",
+        "city": "Varanasi",
+        "zipcode": "221001",
+        "geo": {
+          "lat": "25.3176",
+          "lng": "82.9739"
+        }
+      },
+      "phone": "91-9876123456",
+      "website": "www.ananyagupta.com",
+      "company": {
+        "name": "Varanasi Silk Emporium",
+        "catchPhrase": "Silk from the Holy City",
+        "bs": "Silk Trade"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Vijay Kumar",
+      "username": "vijaykumar88",
+      "email": "vijay.kumar@example.com",
+      "address": {
+        "street": "789 Rock Garden Road",
+        "suite": "Suite 401",
+        "city": "Chandigarh",
+        "zipcode": "160001",
+        "geo": {
+          "lat": "30.7333",
+          "lng": "76.7794"
+        }
+      },
+      "phone": "91-7890456789",
+      "website": "www.vijaykumar.com",
+      "company": {
+        "name": "Chandigarh Tech Innovators",
+        "catchPhrase": "Innovate, Excel, Repeat",
+        "bs": "Tech Solutions"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Shreya Yadav",
+      "username": "shreyayadav89",
+      "email": "shreya.yadav@example.com",
+      "address": {
+        "street": "567 Beach Road",
+        "suite": "Apartment 202",
+        "city": "Goa",
+        "zipcode": "403001",
+        "geo": {
+          "lat": "15.2993",
+          "lng": "74.1240"
+        }
+      },
+      "phone": "91-9876012345",
+      "website": "www.shreyayadav.com",
+      "company": {
+        "name": "Goa Beach Resorts",
+        "catchPhrase": "Relax by the Sea",
+        "bs": "Hospitality"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Sandeep Gupta",
+      "username": "sandeepgupta85",
+      "email": "sandeep.gupta@example.com",
+      "address": {
+        "street": "789 Himalaya Road",
+        "suite": "Suite 501",
+        "city": "Shimla",
+        "zipcode": "171001",
+        "geo": {
+          "lat": "31.1048",
+          "lng": "77.1734"
+        }
+      },
+      "phone": "91-7890654321",
+      "website": "www.sandeepgupta.com",
+      "company": {
+        "name": "Shimla Adventure Tours",
+        "catchPhrase": "Explore the Himalayas",
+        "bs": "Adventure Tourism"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Nisha Agarwal",
+      "username": "nishaagarwal86",
+      "email": "nisha.agarwal@example.com",
+      "address": {
+        "street": "123 Kanchenjunga Road",
+        "suite": "Flat 302",
+        "city": "Darjeeling",
+        "zipcode": "734101",
+        "geo": {
+          "lat": "27.0360",
+          "lng": "88.2627"
+        }
+      },
+      "phone": "91-9876123456",
+      "website": "www.nishaagarwal.com",
+      "company": {
+        "name": "Darjeeling Tea House",
+        "catchPhrase": "Sip the Finest Tea",
+        "bs": "Tea Manufacturing"
+      }
+    },
+    {
+      "name": "Anshu",
+      "username": "",
+      "email": "",
+      "phone": "08229085892",
+      "website": "",
+      "address": {
+        "city": "Rupnagar",
+        "street": "NC-4 BOYS HOSTEL Room No. 605 Chandigarh University NH-95,, , Ludhiana - Chandigarh State Highway Punjab MORINDA, PUNJAB 140413 India",
+        "suite": "",
+        "zipcode": "140413"
+      },
+      "company": {
+        "name": "",
+        "catchPhrase": "",
+        "bs": ""
+      },
+      "id": 17
+    }
+  ]
+}
